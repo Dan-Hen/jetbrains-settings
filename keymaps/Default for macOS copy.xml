@@ -31,10 +31,6 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="NewScratchFile" />
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt o" />
-    <keyboard-shortcut first-keystroke="meta alt l" />
-  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta s" />
