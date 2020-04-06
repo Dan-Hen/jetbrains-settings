@@ -6,6 +6,10 @@
           <option name="url" value="http://source.developers.google.com" />
           <option name="userName" value="ambroise.dhenain@studylink.fr" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="Dan-Hen" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
