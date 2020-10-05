@@ -4,6 +4,7 @@
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="about" type="JavaScript" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
